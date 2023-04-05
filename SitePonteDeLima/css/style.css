@@ -7,7 +7,15 @@
     box-sizing: border-box;
 }
 
-
+body{
+    background-image: url(../imgs/background.jpeg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    
+}
 
 nav{
    
@@ -113,4 +121,31 @@ width: 30%;
     transform: rotate(45deg) translate(-5px,-6px);
 }
 
+
+
+.info{
+    padding: 30px;
+    font-family: sans-serif;
+   
+    
+}
+
+h2{
+    text-align: center;
+    font-size: 7vw;
+}
+.texto2  {
+    background-color: rgb(255, 255, 255,0.4);
+    
+}
+.texto2  hr{
+    background-color: rgb(255, 255, 255,0.4);
+    
+}
+p{
+    text-align: justify;
+    font-size: 3vw;
+    opacity: 1;
+    
+}
 
