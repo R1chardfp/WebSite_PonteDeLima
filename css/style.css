@@ -26,7 +26,7 @@
 }
 p{
     text-align: justify;
-    font-size: 3vw;
+    font-size: 2vw;
     opacity: 1;
     
 }
@@ -42,7 +42,7 @@ main{
 }
 .text2{
     text-align: justify;
-    font-size: 3vw;
+    font-size: 2vw;
 }
 
 .container-video{
@@ -114,6 +114,20 @@ img{
         text-align: justify;
         font-size: 4vw;
     }
+    p{
+        text-align: justify;
+    font-size: 3vw;
+    opacity: 1;
+    }
+    .titulo2{
+        text-align: center;
+        font-size: 7vw;
+    }
+    .text2{
+        text-align: justify;
+        font-size: 3vw;
+    }
+    
 }
 
 .contact-in{
