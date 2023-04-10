@@ -89,6 +89,7 @@ width: 30%;
    body{
     overflow-x: hidden;
    }
+   
     .nav-links{
     position: fixed;
     right: 0px;
